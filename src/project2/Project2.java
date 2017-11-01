@@ -18,6 +18,7 @@ public class Project2 {
         // TODO code application logic here
         System.out.print("Hello");
         System.out.print("Yeah");
+        System.out.print("Bye");
     }
     
 }
